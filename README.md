@@ -52,10 +52,4 @@ This package implements the REST API, domain modules, authentication scaffolding
 
 The API currently uses workspace packages for shared config and types (`@brandflow/config`, `@brandflow/types`).
 
-## Notes
-
-Keeping shared types in one package helps ensure consistency across the monorepo.
-
-## Notes
-
 Keeping shared types in one package helps ensure consistency across the monorepo.
